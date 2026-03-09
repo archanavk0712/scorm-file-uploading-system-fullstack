@@ -33,6 +33,8 @@ Clone the repository
 
 Import the project into Spring Tool Suite or any Java IDE
 
+Update the DB credentials in the application.properties file
+
 Run the application as a Spring Boot Application
 
 The backend server will start on
